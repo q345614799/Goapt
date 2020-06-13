@@ -1,0 +1,7 @@
+Addr: 119.3.250.14
+Port: 3306
+Username: swp
+Password: 19951106swpSWP.
+Database: apt
+redisAddr: 119.3.250.14
+redisPort: 6379
